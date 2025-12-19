@@ -12,7 +12,7 @@ A lightweight web tool that evaluates password strength in real time based on:
 - JavaScript
 
 ## Live Demo
-https://aviral0509.github.io/password-strength-checker/
+https://aviral0509.github.io/Password-Strength-Checker/
 
 ## GitHub
 https://github.com/AVIRAL0509/Password-Strength-Checker
